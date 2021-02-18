@@ -19,7 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Empirical software engineering
-- Software Startups
+- Software startups
 - Agile/Lean
 
 # Education to show in About widget
@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Henry Edison is an assistant professor (adjunkt) of software engineering at SDU Software Engineering at the The Maersk Mc-Kinney Moller Institute. His research interests include empirical software engineering in the area of software product innovation, open innovation, software startups, inner source, and agility. His research examines current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations. He has published in leading journals and conferences in his field including IEEE TSE, JSS, IST etc.
+Henry Edison is an assistant professor (adjunkt) of software engineering at SDU Software Engineering at the Maersk Mc-Kinney Moller Institute. His research interests include empirical software engineering in the area of software product innovation, open innovation, software startups, inner source, and agility. His research examines current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations. He has published in leading journals and conferences in his field including IEEE TSE, JSS, IST etc.
 
 In 2018, he is awarded a prestigious Advanced Learning in Evolving Critical Systems (ALECS) research fellowship of two-year duration at Lero, Ireland. ALECS is an innovative fellowship programme coordinated by Lero, the Irish Software Research Centre. The initiative is co-funded by the European Commission under the Marie Skłodowska-Curie programme and by Science Foundation Ireland, through Lero.
 
