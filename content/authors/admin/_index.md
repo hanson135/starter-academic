@@ -10,17 +10,17 @@ role: Assistant Professor (Adjunkt) in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: SDU Software Engineering, The Maersk Mc-Kinney Moller Institute, Southern Denmark University
+- name: SDU Software Engineering, The Maersk Mc-Kinney Moller Institute, University of Southern Denmark
   url: https://www.sdu.dk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Empirical software engineering
+- Human factors in software engineering
 - Software startups
-- Agile/Lean
+- Agile/Lean methods
 
 # Education to show in About widget
 education:
@@ -74,4 +74,4 @@ Henry Edison is an assistant professor (adjunkt) of software engineering at SDU 
 
 In 2018, he is awarded a prestigious Advanced Learning in Evolving Critical Systems (ALECS) research fellowship of two-year duration at Lero, Ireland. ALECS is an innovative fellowship programme coordinated by Lero, the Irish Software Research Centre. The initiative is co-funded by the European Commission under the Marie Skłodowska-Curie programme and by Science Foundation Ireland, through Lero.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
