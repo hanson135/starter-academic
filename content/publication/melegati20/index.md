@@ -9,13 +9,14 @@ authors:
 - admin
 - Xiaofeng Wang
 
+
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-11-01T00:00:00Z"
-doi: "10.1109/TSE.2020.3042610"
+date: "2021-04-01T00:00:00Z"
+doi: "10.1109/TSE.2021.3069039"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,7 +31,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Software Engineering
 publication_short: In *IEEE TSE*
 
-abstract: Software startups develop innovative, software-intensive products or services. Such innovativeness translates into uncertainty regarding a matching need for a product from potential customers, representing a possible determinant reason for startup failure. Research has shown that experimentation, an approach based on the use of experiments to guide several aspects of software development, could improve these companies' success rate by fostering the evaluation of assumptions about customers' needs before developing a full-fledged product. Nevertheless, software startups are not using experimentation as expected. In this study, we investigated the reasons behind such a mismatch between theory and practice. To achieve it, we performed a qualitative survey study of 106 failed software startups. We built the eXperimentation Progression model (XPro), demonstrating that the effective adoption and implementation of experimentation is a staged process: first, teams should be aware of experimentation, then they need to develop an intention to experiment, perform the experiments, analyze the results, and finally act based on the obtained learning. Based on the XPro model, we further identified 25 inhibitors that prevent a team from progressing along the stages properly. Our findings inform researchers of how to develop practices and techniques to improve experimentation adoption in software startups. Practitioners could learn various factors that could lead to their startup failure so they could take action to avoid them.
+abstract: Following the highly pervasive and effective use of agile methods at the team level, many software organisations now wish to replicate this success at the organisational level, adopting large-scale agile methods such as SAFe, Scrum-at-Scale, and others. However, this has proven significantly challenging. An analysis of the extant literature reveals a disparate set of studies across each individual method, with no cross-method comparison based on empirical evidence. This systematic literature review compares the main large-scale agile methods, namely SAFe, LeSS, Scrum-at-Scale, DAD, and the Spotify model. It is the first study to analyse and compare each of the method's principles, practices, tools, and metrics in a standardised manner. For each method, it presents not just the original method specifications but also all extensions and modifications to each method proposed by subsequent empirical research. It includes in this comparison not just commercial large-scale methods but also those that have been custom-built in organisations such as Nokia, Ericsson, and others. Based on the findings reported in this study, practitioners can make a more informed decision as to which commercial method or method component or, indeed, custom-built method is better suited to their needs. Our study reveals a number of theoretical and practical issues in the current literature, such as an emphasis on the practices of commercial frameworks at the expense of their underlying principles, or indeed any of the custom method. A set of challenges and success factors associated with the use of large-scale agile methods are identified. The study also identifies a number of research gaps to be addressed across methods.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
