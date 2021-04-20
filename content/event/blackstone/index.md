@@ -1,5 +1,5 @@
 ---
-title: Software Startups: What can We Learn from Them?
+title: Software Startups - What can We Learn from Them?
 
 #event: Wowchemy Conference
 #event_url: https://example.org
