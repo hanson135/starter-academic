@@ -4,7 +4,7 @@ title: Exploring of the Method Jungle of Large-Scale Agile Software Development
 #event: Wowchemy Conference
 #event_url: https://example.org
 
-location: 9th International Workshop on Large-Scale Agile Development 
+location: 9th International Workshop on Large-Scale Agile Development
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -17,8 +17,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-18T13:35:00Z"
-date_end: "2021-06-18T14:00:00Z"
+date: "2021-06-18T14:35:00Z"
+date_end: "2021-06-18T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
