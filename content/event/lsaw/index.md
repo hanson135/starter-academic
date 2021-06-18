@@ -40,7 +40,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://figshare.com/articles/presentation/Exploring_the_Method_Jungle_of_Large-Scale_Agile_Software_Development/14806830"
 url_slides: ""
 url_video: ""
 
