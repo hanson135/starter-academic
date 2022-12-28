@@ -6,19 +6,19 @@ title: Henry Edison
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Biträdande universitetslektor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: SDU Software Engineering, The Mærsk Mc-Kinney Moller Institute, University of Southern Denmark
-  url: https://www.sdu.dk/
+- name: Blekinge Tekniska Högskola
+  url: https://www.bth.se/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Human factors in software engineering
+- Human factors and analytics in software engineering
 - Software startups
 - Agile/Lean methods
 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Henry Edison is an assistant professor (adjunkt) with the Mærsk Mc-Kinney Moller Institute at the University of Southern Denmark. His research interests include empirical software engineering in the area of software product innovation, software startups, agility and human factors in software engineering. His research examines current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations. He has published in leading journals and conferences in his field including IEEE Transactions on Software Engineering, Journal of Systems and Software, Information and Software Technology etc.
+Henry Edison is a biträdande universitetslektor (associate senior lecturer) in software engineering at Blekinge Tekniska Högskola, Karlskrona, Sweden. His research interests include empirical software engineering in the area of software product innovation, software startups, agility and human factors in software engineering. His research examines current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations. He has published in leading journals and conferences in his field including IEEE Transactions on Software Engineering, Journal of Systems and Software, Information and Software Technology etc.
 
 In 2018, he was awarded a prestigious Advanced Learning in Evolving Critical Systems (ALECS) research fellowship of two-year duration at Lero, Ireland. ALECS is an innovative fellowship programme coordinated by Lero, the Irish Software Research Centre. The initiative is co-funded by the European Commission under the Marie Skłodowska-Curie programme and by Science Foundation Ireland, through Lero.
