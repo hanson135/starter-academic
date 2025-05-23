@@ -6,7 +6,7 @@ title: Henry Edison
 superuser: true
 
 # Role/position/tagline
-role: Universitetslektor in Software Engineering
+role: Associate Professor (Docent) in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Henry Edison is a universitetslektor (senior lecturer) in software engineering at Blekinge Tekniska Högskola (BTH), Karlskrona, Sweden. Henry Edison is an ELLIIT recruited faculty since 2022. His research interests include empirical software engineering in the area of software product innovation, software startups, agility and human factors in software engineering. His research examines current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations. He has published in leading journals and conferences in his field including IEEE Transactions on Software Engineering, Journal of Systems and Software, Information and Software Technology etc.
+Henry Edison is an associate professor (docent) in software engineering at Blekinge Tekniska Högskola (BTH), Karlskrona, Sweden. Henry Edison is an ELLIIT recruited faculty since 2022. His research interests include empirical software engineering in the area of software product innovation, software startups, agility and human factors in software engineering. His research examines current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations. He has published in leading journals and conferences in his field including IEEE Transactions on Software Engineering, Journal of Systems and Software, Information and Software Technology etc.
 
-Before joining BTH, he was an assistant professor of software engineering at Southern Denmark University (SDU), Denmark (2021--2022) and a Marie Curie Fellow within Lero - the Science Foundation Ireland Research Centre for Software at the University of Galway, Ireland (2017--2021). 
+Before joining BTH, he was an assistant professor of software engineering at Southern Denmark University (SDU), Denmark (2021--2022) and a Marie Curie Fellow within Lero - the Science Foundation Ireland Research Centre for Software at the University of Galway, Ireland (2017--2021).
